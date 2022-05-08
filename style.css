@@ -1,0 +1,31 @@
+body {
+    background-color: #fefae0;
+}
+
+header {
+    background-color: #e76f51;
+    text-align: center;
+    padding: 1px;
+    color: white;
+}
+
+section {
+    padding: 15px;
+    margin: 15px;
+}
+
+form {
+    text-align: center;
+    font-weight: bold;
+}
+
+label {
+    text-align: justify;
+}
+
+footer {
+    background-color: #2a9d8f;
+    text-align: center;
+    color: white;
+}
+
